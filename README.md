@@ -3,7 +3,7 @@
 
 ## Project Context
 This project was developed as part of a multi-team engineering initiative to build a fully automated Plant Care System. The overall system comprised four integrated subsystems:
-1. **Sensing & Alerts (My Team):** Soil moisture monitoring and acoustic alarm generation.
+1. **Sensing and Alerts (My Team):** Soil moisture monitoring and acoustic alarm generation.
 2. **Irrigation Control:** Automated water pump logic.
 3. **Environment Monitoring:** Light and ambient temperature sensing.
 4. **Power Management:** System-wide power distribution.
