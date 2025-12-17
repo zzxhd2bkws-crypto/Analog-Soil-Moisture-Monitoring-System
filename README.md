@@ -1,4 +1,4 @@
-# Analog Soil Monitoring & Alert Subsystem
+# Analog Soil Monitoring and Alert Subsystem
 **Part of the Smart Plant Care Collaborative System**
 
 ## Project Context
